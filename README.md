@@ -1,1 +1,1 @@
-# my_first_rep
+# List of exercices I'm making to learn coding 
